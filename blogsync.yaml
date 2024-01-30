@@ -1,4 +1,4 @@
-<BLOG DOMAIN>:
-  username: naoki-haba.hatenadiary.com
+naoki-haba.hatenadiary.com:
+  username: naoki-haba
 default:
   local_root: entries
